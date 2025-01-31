@@ -1,0 +1,80 @@
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: yellow;
+  font-size: 40px;
+}
+h2 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  color: yellow;
+  font-size: 40px;
+}
+body {
+  background-color: rgb(48, 48, 128);
+}
+
+#buttonverdade {
+  background-color: rgb(206, 206, 0);
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgb(48, 48, 128);
+  border-radius: 5px;
+  border-color: rgb(48, 48, 128);
+}
+
+#buttonverdade:hover {
+  background-color: rgb(48, 48, 128);
+  color: yellow;
+  border-color: yellow;
+}
+#xp {
+  background-color: rgb(206, 206, 0);
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgb(48, 48, 128);
+  border-radius: 5px;
+  border-color: rgb(48, 48, 128);
+}
+
+#xp:hover {
+  background-color: rgb(48, 48, 128);
+  color: yellow;
+  border-color: yellow;
+}
+#abrirlinkedin {
+  background-color: rgb(74, 202, 0);
+  color: rgba(216, 2, 2, 0.815);
+  font-size: 30px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  border-radius: 5px;
+  border-color: yellow;
+}
+#abrirlinkedin:hover {
+  background-color: yellow;
+  color: rgb(48, 48, 128);
+  border-color: red;
+}
+#p1 {
+  text-align: center;
+}
+#p2 {
+  text-align: center;
+}
+#pin {
+  text-align: center;
+}
+#p3 {
+  color: rgba(255, 0, 0, 0.555);
+  font-size: 16px;
+  font-family: cursive;
+}
+#rodape {
+  text-align: right;
+  color: rgba(255, 0, 0, 0.555);
+  font-size: 16px;
+  font-family: cursive;
+}
